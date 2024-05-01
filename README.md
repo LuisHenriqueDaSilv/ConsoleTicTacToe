@@ -24,7 +24,7 @@ Para jogar é simples. Após executar o programa, sera mostrado um menu onde voc
 ### Como usar:
 Para utilizar o programa já compilado, clone o repositório do github em sua máquina e execute o arquivo **run** da seguinte maneira: 
 ```sh
-git clone https://github.com/LuisHenriqueDaSilv/tictactoeGameWithC.git #Clona o repositório em sua maquina
+git clone https://github.com/LuisHenriqueDaSilv/ConsoleTicTacToe.git #Clona o repositório em sua maquina
 
 cd  tictactoeGameWithC #Entra no diretório onde o repositório foi clonado
 
@@ -36,7 +36,7 @@ Para compilar o programa em sua máquina, clone o repositório do github em sua 
 
 #### Utilizando o make:
 ```sh
-git clone https://github.com/LuisHenriqueDaSilv/tictactoeGameWithC.git #Clona o repositório em sua maquina
+git clone https://github.com/LuisHenriqueDaSilv/ConsoleTicTacToe.git #Clona o repositório em sua maquina
 
 cd  tictactoeGameWithC #Entra no diretório onde o repositório foi clonado
 
@@ -50,7 +50,7 @@ make ## Utiliza os scrips escritos no arquivo Makefile do projeto e gera do
 #### Utilizando o gcc:
 ```sh
 
-git clone https://github.com/LuisHenriqueDaSilv/tictactoeGameWithC.git #Clona o repositório em sua maquina
+git clone https://github.com/LuisHenriqueDaSilv/ConsoleTicTacToe.git #Clona o repositório em sua maquina
 
 cd  tictactoeGameWithC #Entra no diretório onde o repositório foi clonado
 
